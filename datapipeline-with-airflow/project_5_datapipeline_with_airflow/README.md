@@ -13,7 +13,7 @@ Briefly talking about this ELT process:
  
  For illustration purposes you can check out the graph that represents this pipeline's flow:
 
-![Directed Acyclic Graph of this Data Pipeline](datapipeline-with-airflow/project_5_datapipeline_with_airflow/images/DAG_graph_view.png)
+![Directed Acyclic Graph of this Data Pipeline](images/DAG_graph_view.png)
 
 
 ## Data sources
