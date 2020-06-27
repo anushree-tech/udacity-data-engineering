@@ -114,13 +114,6 @@ def process_log_data(spark, input_data, output_data):
     # write users table to parquet files
     users_table.write.mode('overwrite').parquet(output_data+'users_table/')
 
-    # create timestamp column from original timestamp column
-    #get_timestamp = udf()
-    #df = 
-    
-    # create datetime column from original timestamp column
-    #get_datetime = udf()
-    #df = 
     
     # extract columns to create time table
 
